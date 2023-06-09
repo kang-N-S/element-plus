@@ -1,7 +1,7 @@
 <template>
   <el-form
     ref="formRef"
-    :model="dynamicValidateForm"
+   
     label-width="120px"
     class="demo-dynamic"
   >
